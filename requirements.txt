@@ -1,0 +1,6 @@
+statsmodels==0.10.1
+arch==4.16.1
+scipy==1.6.1
+numpy==1.18.5
+matplotlib==3.2.2
+pandas==1.2.2
