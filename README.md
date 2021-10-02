@@ -1,4 +1,4 @@
-# pyVaRES_toy-library
+# pyVaRES_toy_lib
 
 In this repo you can find a toy-library related to the topics of Value at Risk and Expected Shortfall.
 
