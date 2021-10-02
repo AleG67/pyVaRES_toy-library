@@ -1,6 +1,6 @@
 # pyVaRES_toy_lib
 
-In this repo you can find a toy-library related to the topics of Value at Risk and Expected Shortfall.
+In this repo you can find some functions I've written, related to the topics of Value at Risk and Expected Shortfall.
 
 The **pyVaRES.py** file contains the functions I've written:
 - VaR_basic = function to compute fixed or rolling VaR given input parameters such as underlying distribution, alpha level, etc...
