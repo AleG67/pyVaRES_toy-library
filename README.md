@@ -1,4 +1,4 @@
-# pyVaRES_toy_lib
+# pyVaRES_functions
 
 In this repo you can find some functions I've written, related to the topics of Value at Risk and Expected Shortfall.
 
