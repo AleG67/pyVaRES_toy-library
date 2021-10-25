@@ -2,7 +2,7 @@
 
 In this repo you can find some functions I've written, related to the topics of Value at Risk and Expected Shortfall.
 
-The **pyVaRES.py** file contains the functions I've written:
+The **pyVaRES.py** file contains the functions:
 - VaR_basic = function to compute fixed or rolling VaR given input parameters such as underlying distribution, alpha level, etc...
 - ES_basic = function to compute fixed or rolling ES given input parameters such as underlying distribution, alpha level, etc...
 - garch11_vol_fixedspec = function to fit a garch(1,1) model and obtain volatility forecasts given the specific characteristics of the given returns distribution.
